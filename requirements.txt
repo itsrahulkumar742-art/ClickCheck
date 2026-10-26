@@ -1,0 +1,10 @@
+# ClickCheck
+# Rahul | GNDU College, Jalandhar | BCA 3rd Year
+# IBM SkillsBuild National Cybersecurity Bootcamp (Oct 2026)
+#
+# The main program (clickcheck.py) uses only the Python standard library.
+# Python 3.9 or newer is enough.
+#
+# Install the line below only if you want to open the Jupyter notebook.
+
+notebook>=6.5.0
